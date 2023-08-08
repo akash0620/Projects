@@ -1,5 +1,5 @@
-# Project 3 : Snakes and Ladders
-
+# Project  : Snakes and Ladders
+# By : Akash Khandelwal
 
 import random
 
